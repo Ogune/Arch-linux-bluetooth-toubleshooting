@@ -13,7 +13,7 @@ sudo dmesg | grep -i bluetooth
 ```bash
 sudo ls /lib/firmware/mediatek/BT_RAM_CODE_MT7961_1a_2_hdr.bin
   
-```
+``` 
 
 ### Step 3: Locating an Alternative Firmware File
 ```bash
