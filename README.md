@@ -12,8 +12,7 @@ sudo dmesg | grep -i bluetooth
 ### Step 2: Finding the Missing Firmware 
 ```bash
 sudo ls /lib/firmware/mediatek/BT_RAM_CODE_MT7961_1a_2_hdr.bin
- 
-#This command checks if the necessary firmware file is present.
+  
 ```
 
 ### Step 3: Locating an Alternative Firmware File
