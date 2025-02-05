@@ -5,7 +5,7 @@ This repository provides comprehensive guidance and resources for resolving Blue
 
 ## Instructions
 
-### Step 1: Identifying the Problem
+### Step 1: Identifying the Problem 
 ```bash
 sudo dmesg | grep -i bluetooth
 ```
