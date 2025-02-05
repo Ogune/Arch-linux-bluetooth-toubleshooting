@@ -7,7 +7,7 @@ This repository provides comprehensive guidance and resources for resolving Blue
  
 ```bash
 sudo dmesg | grep -i bluetooth
-```
+``` 
  
 ### Step 2: Finding the Missing Firmware 
 ```bash
