@@ -4,8 +4,7 @@
 This repository provides comprehensive guidance and resources for resolving Bluetooth issues on Arch Linux systems. If you encounter errors such as "No default controller available" or encounter difficulties with Bluetooth functionality, this guide will assist you in resolving them step by step.
 
 ## Instructions
-
-### Step 1: Identifying the Problem  
+ 
 ```bash
 sudo dmesg | grep -i bluetooth
 ```
